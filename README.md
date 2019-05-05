@@ -4,6 +4,8 @@ A routine for classifying Istanbul's historical landmarks with a deep learning m
 
 The routine is written in Python3 and Keras 2.10 on Google Colab.
 
+[Jupyter Notebook](landmark_classification_w_keras.ipynb) and [Utils file](utils.py) contains source code of the project. 
+
 ## Requirements:
 keras, cv2, os, numpy, matplotlib libraries and their functions are used for this routine.
 
